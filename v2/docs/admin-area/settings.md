@@ -54,7 +54,7 @@ systemctl stop mysql && systemctl disable mysql
 
 ### Delete Database Server
 
-1. To add a **Database Server**, click in the left menu on **Settings** and then on the tab **Database Servers**.
+1. To delete a **Database Server**, click in the left menu on **Settings** and then on the tab **Database Servers**.
 
 2. Click on the **Database Server** you want to **delete**.
 
